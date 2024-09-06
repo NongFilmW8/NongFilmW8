@@ -9,8 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NongFilmW8&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NongFilmW8&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ## 💻 WakaTime Stats:
-[![wakatime](https://wakatime.com/badge/user/69e1159e-31ba-4e18-9420-f60cdca96bc8.svg)](https://wakatime.com/@NongFilmW8)
-### 🔝 Top Contributed Repo
+[![WakaTime](https://wakatime.com/badge/user/bb3bef44-3c26-4fcb-a74d-c4ffd75174d7.svg)](https://wakatime.com/@bb3bef44-3c26-4fcb-a74d-c4ffd75174d7)### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NongFilmW8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
