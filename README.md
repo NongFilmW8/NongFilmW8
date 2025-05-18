@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-
+[![WakaTime](https://wakatime.com/badge/user/NongFilmW8.svg)](https://wakatime.com/@NongFilmW8)
 ---
 
 # 📈 GitHub Stats:
@@ -58,6 +58,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f1lm_w8)
 [![Facebook](https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FilmKungApichai)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@FilmW8)
-<div align="center">
-  <img src="https://media1.tenor.com/m/-kcyrKS6ShcAAAAd/ainz-ooal-gown-overlord.gif" alt="Ainz Ooal Gown" width="400" />
+<div style="margin:0; padding:0; width:100vw; height:100vh; overflow:hidden; display:flex; justify-content:center; align-items:center;">
+  <img src="https://media1.tenor.com/m/-kcyrKS6ShcAAAAd/ainz-ooal-gown-overlord.gif" 
+       style="width:100vw; height:100vh; object-fit:cover;" alt="Overlord GIF"/>
 </div>
