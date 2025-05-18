@@ -1,9 +1,10 @@
-
-<h2 align="left"> 👨‍💻   Caffeine × Code = Control  <br>Breaking systems. Building futures.</h2>
-> **Note**
->
-> This is a note
-
+<h1 align="left" style="font-family: 'Courier New', Courier, monospace; color: #00ff99;">
+  👨‍💻💻⚡ Caffeine × Code = Control ☕⚡<br>
+  <sub><i style="color:#ff0066;">Breaking systems. Building futures.</i></sub>
+</h1>
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 72px; color: #ff0000; text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0066;">
+  👾⚡4 0 4 ⚡👾
+</h1>
 
 
 ---
