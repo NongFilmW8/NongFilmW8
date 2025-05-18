@@ -56,32 +56,14 @@
 
 ---
 
-<h2 align="left"> 👨‍💻   Caffeine × Code = Control  <br>Breaking systems. Building futures.</h2>
-
----
-
-# 💻 Tech Stack:
-<!-- (เหมือนเดิม) -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-<!-- ... รัน badges ตามเดิม ... -->
-
-[![wakatime](https://wakatime.com/badge/user/bb3bef44-3c26-4fcb-a74d-c4ffd75174d7.svg)](https://wakatime.com/@bb3bef44-3c26-4fcb-a74d-c4ffd75174d7)
----
-
-# 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NongFilmW8&show_icons=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NongFilmW8&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
 
 
-# 🌐 Socials:
+
+<h1 align="left">🌐 Socials:</h1>
 <div align="left">
   <a href="https://instagram.com/f1lm_w8" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0057B7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="https://facebook.com/FilmKungApichai" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
@@ -90,8 +72,11 @@
   </a>
 </div>
 
+---
 <!-- GIF ขนาดพอดี -->
-<div style="margin-top: 20px; text-align:center;">
+<div style="display: flex; justify-content: center; margin: 0;">
   <img src="https://media1.tenor.com/m/-kcyrKS6ShcAAAAd/ainz-ooal-gown-overlord.gif" 
-       style="max-width:100%; height:350px; object-fit:contain;" alt="Overlord GIF"/>
+       style="max-width:100%; height:350px; object-fit: cover;" alt="Overlord GIF"/>
 </div>
+
+---
