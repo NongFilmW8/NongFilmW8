@@ -68,7 +68,7 @@
   <a href="https://instagram.com/f1lm_w8" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://facebook.com/FilmKungApichai" target="_blank">
+  <a href="https://facebook.com/Filmw8" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://www.tiktok.com/@FilmW8" target="_blank">
