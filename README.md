@@ -43,7 +43,29 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-[![WakaTime](https://wakatime.com/badge/user/NongFilmW8.svg)](https://wakatime.com/@NongFilmW8)
+
+[![wakatime](https://wakatime.com/badge/user/bb3bef44-3c26-4fcb-a74d-c4ffd75174d7.svg)](https://wakatime.com/@bb3bef44-3c26-4fcb-a74d-c4ffd75174d7)
+---
+
+# 📈 GitHub Stats:
+<div align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=NongFilmW8&show_icons=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NongFilmW8&layout=compact&theme=dracula&hide_border=false" height="150" />
+
+
+---
+
+<h2 align="left"> 👨‍💻   Caffeine × Code = Control  <br>Breaking systems. Building futures.</h2>
+
+---
+
+# 💻 Tech Stack:
+<!-- (เหมือนเดิม) -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+<!-- ... รัน badges ตามเดิม ... -->
+
+[![wakatime](https://wakatime.com/badge/user/bb3bef44-3c26-4fcb-a74d-c4ffd75174d7.svg)](https://wakatime.com/@bb3bef44-3c26-4fcb-a74d-c4ffd75174d7)
 ---
 
 # 📈 GitHub Stats:
@@ -54,11 +76,22 @@
 
 ---
 
+
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/f1lm_w8)
-[![Facebook](https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/FilmKungApichai)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@FilmW8)
-<div style="margin:0; padding:0; width:100vw; height:100vh; overflow:hidden; display:flex; justify-content:center; align-items:center;">
+<div align="left">
+  <a href="https://instagram.com/f1lm_w8" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0057B7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+  <a href="https://facebook.com/FilmKungApichai" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.tiktok.com/@FilmW8" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+</div>
+
+<!-- GIF ขนาดพอดี -->
+<div style="margin-top: 20px; text-align:center;">
   <img src="https://media1.tenor.com/m/-kcyrKS6ShcAAAAd/ainz-ooal-gown-overlord.gif" 
-       style="width:100vw; height:100vh; object-fit:cover;" alt="Overlord GIF"/>
+       style="max-width:100%; height:350px; object-fit:contain;" alt="Overlord GIF"/>
 </div>
